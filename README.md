@@ -1,5 +1,5 @@
 # [22CLC-Intro2DS] Brand Fashion Market Trend Analysis
-## Group 6 - LoveData
+## Group 3 - LoveData
 ## Group members:
 1. 22127225 - Trần Thị Thiên Kim
 2. 22127374 - Lê Thanh Tâm
